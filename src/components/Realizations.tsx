@@ -50,7 +50,7 @@ export const Realizations = () => {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold font-heading text-dark mb-4">
-            Einige meiner Arbeiten
+            Überblick über meine berufliche Erfahrung
           </h2>
           <div className="w-20 h-1 bg-secondary-500 mx-auto"></div>
         </div>
