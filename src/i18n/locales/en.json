@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "hero": "Home"
+  },
+  "hero": {
+    "title": "IT Support Specialist",
+    "description": "Passionate about solving technical problems and improving IT systems. Specialist in maintenance, user support, and network administration.",
+    "buttons": {
+      "learnMore": "Learn More",
+      "contact": "Contact Me"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am Younes Sakr, an IT professional passionate about technology, specializing in technical support, computer maintenance, and network administration. My background combines solid technical knowledge with complementary management training.",
+    "objective": "My goal is to contribute to the optimization of IT systems while ensuring a smooth and secure user experience. I am committed to efficiently solving technical problems and continuously improving IT infrastructures.",
+    "info": {
+      "title": "Information",
+      "location": "Agadir, Morocco",
+      "email": "",
+      "phone": "+212 671 130 224"
+    },
+    "languages": {
+      "title": "Language Skills",
+      "native": "Native",
+      "proficient": "B2",
+      "intermediate": "B1"
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "present": "Present",
+    "exp1": {
+      "title": "IT Support Specialist",
+      "company": "(Service Provider for the Regional Directorate of Customs in Agadir) via ODIF MAROC / INNOVA STAR / KASLAM SARL",
+      "period": "May 2025 - Present",
+      "responsibilities": [
+        "Diagnose and resolve hardware and software failures",
+        "Assist users remotely or on-site",
+        "Monitor network performance and resolve connectivity issues",
+        "Configure collaborative tools"
+      ]
+    },
+    "exp2": {
+      "title": "IT Support Specialist",
+      "company": "Groupe FIKRI CASH (Partner: Wafacash)",
+      "period": "January 2024 - January 2025",
+      "responsibilities": [
+        "Incident management and resolution",
+        "Assist users remotely or on-site",
+        "System administration",
+        "Maintenance, administration and security of IT equipment",
+        "Train users on IT best practices",
+        "IT security management"
+      ]
+    },
+    "exp3": {
+      "title": "Internship - IT Network Service",
+      "company": "AYOUR CONCEPT",
+      "period": "2023 (7 months)",
+      "responsibilities": [
+        "Installation, testing and updating of IT equipment",
+        "Printer diagnosis and cleaning",
+        "Maintenance, administration and security of IT equipment",
+        "Incident resolution",
+        "Installation and configuration of time clocks, access controllers and telephone systems",
+        "Data recovery and software installation"
+      ]
+    },
+    "exp4": {
+      "title": "Data Entry Operator",
+      "company": "HARMONY TECHNOLOGY",
+      "period": "2023 (4 months)",
+      "responsibilities": [
+        "Data entry into the database",
+        "Data classification and organization",
+        "Anti-theft labeling"
+      ]
+    },
+    "exp5": {
+      "title": "Internship - IT Service",
+      "company": "AGANET INFO",
+      "period": "2020 (1 month)",
+      "responsibilities": [
+        "Installation and updating of IT equipment (computers and software)",
+        "Resolve hardware and software problems",
+        "Configuration of routers, access points",
+        "Data backup"
+      ]
+    }
+  },
+  "education": {
+    "title": "Education & Certifications",
+    "degrees": "Degrees",
+    "certifications": "Certifications",
+    "edu1": {
+      "degree": "Bachelor's Degree in Fundamental Studies in Economics and Management, Management Option",
+      "institution": "Faculty of Legal, Economic and Social Sciences of Agadir"
+    },
+    "edu2": {
+      "degree": "Technician Diploma in Computer Maintenance and Support and Networks",
+      "institution": "Specialized Institute of Applied Technology ISTA Taddart Agadir"
+    },
+    "edu3": {
+      "degree": "Baccalaureate in Life and Earth Sciences",
+      "institution": "Anoual Qualifying High School Agadir"
+    },
+    "edu4": {
+      "degree": "Partial Recognition as IT System Integration Specialist (IHK FOSA)",
+      "institution": "State-recognized Technician for IT Maintenance and Network Support (OFPPT), Agadir – Morocco",
+      "additionalInfo": "Only one missing competency area: IT Security & Data Protection (in compensation)"
+    },
+    "certificationsList": [
+      {
+        "title": "telc Deutsch B2",
+        "issuer": "TELC",
+        "date": "2026"
+      },
+      {
+        "title": "Certifications Name",
+        "issuer": "Certifications Issuer",
+        "date": "2024"
+      },
+      {
+        "title": "Microsoft Office Excel, Word and Word Expert 2016",
+        "issuer": "MICROSOFT",
+        "date": "2021"
+      },
+      {
+        "title": "Career Essentials in System Administration",
+        "issuer": "LINKEDIN",
+        "date": "Dec 2024"
+      },
+      {
+        "title": "Windows Server 2022: Installation and Configuration",
+        "issuer": "LINKEDIN",
+        "date": "Dec 2024"
+      },
+      {
+        "title": "IT Help Desk For Beginners",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "Learning Python",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "React Js: Create a Web Application",
+        "issuer": "ODC AGADIR",
+        "date": "Mar 2025"
+      },
+      {
+        "title": "Boost web development workflows with AI",
+        "issuer": "ODC AGADIR",
+        "date": "Apr 2025"
+      },
+      {
+        "title": "E-commerce Design A to Z",
+        "issuer": "ODC AGADIR",
+        "date": "Apr 2025"
+      },
+      {
+        "title": "HTML CSS",
+        "issuer": "ODC AGADIR",
+        "date": "Apr 2025"
+      },
+      {
+        "title": "Flash and Smartphone Repair",
+        "issuer": "ODC AGADIR",
+        "date": "Mar 2025"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "technicalTitle": "Technical Skills",
+    "softwareTitle": "Software Skills",
+    "personalTitle": "Personal Skills",
+    "technicalSkills": [
+      { "name": "Linux" },
+      { "name": "Windows Server" },
+      { "name": "Cisco" },
+      { "name": "JavaScript (JS)" },
+      { "name": "React Js" },
+      { "name": "Python" },
+      { "name": "HTML" },
+      { "name": "CSS" }
+    ],
+    "softwareSkills": [
+      { "name": "Microsoft Office (Excel, Word, Outlook)" },
+      { "name": "Ticketing Systems" }
+    ],
+    "personalSkills": [
+      { "name": "Teamwork" },
+      { "name": "Problem Solving" },
+      { "name": "Management" },
+      { "name": "Working Under Pressure" }
+    ]
+  },
+  "realizations": {
+    "title": "My Realizations",
+    "cameras": {
+      "title": "Surveillance Camera Installation",
+      "description": "Installation and configuration of video surveillance systems (IP cameras, DVR, NVR), with network configuration and remote access for monitoring."
+    },
+    "satellite": {
+      "title": "Satellite Dish Installation",
+      "description": "Installation and adjustment of satellite dishes, with receiver configuration to ensure optimal signal reception."
+    },
+    "alarm": {
+      "title": "Alarm System",
+      "description": "Installation and commissioning of alarm systems for premises security, with system configuration and testing."
+    },
+    "network": {
+      "title": "Computer Network Installation",
+      "description": "Installation and configuration of computer networks, including routers, switches, and network printer sharing."
+    },
+    "access": {
+      "title": "Access Control",
+      "description": "Installation and configuration of access control systems using badges, codes, or fingerprints."
+    },
+    "attendance": {
+      "title": "Time Clock System",
+      "description": "Installation and configuration of time tracking systems for managing employee attendance and working hours."
+    },
+    "workenv": {
+      "title": "Workplace Environment Improvement",
+      "description": "Organization and optimization of workstations to improve efficiency, productivity, and user comfort."
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "viewProject": "View Project",
+    "before": "Before",
+    "after": "After",
+    "improvements": "Improvements",
+    "proj1": {
+      "title": "Network Infrastructure Optimization",
+      "description": "Complete overhaul of the company's network infrastructure, including cable management, network topology redesign, and performance optimization.",
+      "technologies": ["Cisco", "Network Management", "Cable Management"],
+      "improvements": [
+        "Reduced network latency by 40%",
+        "Improved cable organization and accessibility",
+        "Enhanced network security protocols",
+        "Streamlined maintenance procedures"
+      ]
+    },
+    "proj2": {
+      "title": "Server Room Modernization",
+      "description": "Comprehensive server room upgrade focusing on cooling efficiency, power management, and equipment organization.",
+      "technologies": ["Server Management", "Cooling Systems", "Power Management"],
+      "improvements": [
+        "Reduced power consumption by 30%",
+        "Improved cooling efficiency",
+        "Better space utilization",
+        "Enhanced monitoring systems"
+      ]
+    },
+    "proj3": {
+      "title": "Workstation Setup Optimization",
+      "description": "Redesign of employee workstations to improve ergonomics, cable management, and overall efficiency.",
+      "technologies": ["Ergonomics", "Cable Management", "Workspace Design"],
+      "improvements": [
+        "Enhanced workspace organization",
+        "Improved ergonomics",
+        "Better cable management",
+        "Increased productivity"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location"
+    },
+    "social": {
+      "title": "Social Networks"
+    },
+    "form": {
+      "title": "Send me a message",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "footer": {
+    "madeWith": "Made with",
+    "and": "and",
+    "passion": "passion",
+    "rights": "All rights reserved"
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "experience": "Expérience",
+    "education": "Formation",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact",
+    "hero": "Accueil"
+  },
+  "hero": {
+    "title": "IT Support Specialist",
+    "description": "Passionné par la résolution de problèmes techniques et l'amélioration des systèmes informatiques. Spécialiste en maintenance, support utilisateur et administration réseau.",
+    "buttons": {
+      "learnMore": "En savoir plus",
+      "contact": "Me contacter"
+    }
+  },
+  "about": {
+    "title": "À Propos de Moi",
+    "description": "Je suis Younes Sakr, un professionnel passionné par l'informatique et les technologies, spécialisé dans le support technique, la maintenance informatique et l'administration réseau. Mon parcours combine des connaissances techniques solides avec une formation complémentaire en gestion.",
+    "objective": "Mon objectif est de contribuer à l'optimisation des systèmes informatiques tout en garantissant une expérience utilisateur fluide et sécurisée. Je m'engage à résoudre efficacement les problèmes techniques et à améliorer continuellement les infrastructures IT.",
+    "info": {
+      "title": "Informations",
+      "location": "Agadir, Maroc",
+      "email": "younessakr01@gmail.com",
+      "phone": "+212 671 130 224"
+    },
+    "languages": {
+      "title": "Compétences Linguistiques",
+      "native": "Langue Maternelle",
+      "proficient": "B2",
+      "intermediate": "B1"
+    }
+  },
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "present": "Présent",
+    "exp1": {
+      "title": "IT Support Specialist",
+      "company": "(Prestataire de services auprès de la Direction Régionale des Douanes à Agadir) via ODIF MAROC / INNOVA STAR / KASLAM SARL",
+      "period": "Mai 2025 - Présent",
+      "responsibilities": [
+        "Diagnostiquer et résoudre les pannes matérielles et logicielles",
+        "Assister les utilisateurs à distance ou sur site",
+        "Surveiller les performances du réseau et résoudre les problèmes de connectivité",
+        "Configurer les outils collaboratifs"
+      ]
+    },
+    "exp2": {
+      "title": "IT Support Specialist",
+      "company": "Groupe FIKRI CASH (Partner: Wafacash)",
+      "period": "Janvier 2024 - Janvier 2025",
+      "responsibilities": [
+        "Gestion et résolution des incidents",
+        "Assister les utilisateurs à distance ou sur site",
+        "Administration système",
+        "Maintenance, administration et sécurisation des équipements IT",
+        "Former les utilisateurs sur les bonnes pratiques informatiques",
+        "Management de la sécurité informatique"
+      ]
+    },
+    "exp3": {
+      "title": "Stage - Service Réseau Informatique",
+      "company": "AYOUR CONCEPT",
+      "period": "2023 (7 mois)",
+      "responsibilities": [
+        "Installation, essai et mise à jour des équipements informatiques",
+        "Diagnostic et nettoyage des imprimantes",
+        "Maintenance, administration et sécurisation des équipements IT",
+        "Résolution des incidents",
+        "Installation et configuration des pointeuses, contrôleurs d'accès et standards téléphoniques",
+        "Récupération des données et installation des logiciels"
+      ]
+    },
+    "exp4": {
+      "title": "Opérateur de Saisie",
+      "company": "HARMONY TECHNOLOGY",
+      "period": "2023 (4 mois)",
+      "responsibilities": [
+        "Saisie de données dans la base de données",
+        "Classement et organisation des données",
+        "Étiquette antivol"
+      ]
+    },
+    "exp5": {
+      "title": "Stage - Service Informatique",
+      "company": "AGANET INFO",
+      "period": "2020 (1 mois)",
+      "responsibilities": [
+        "Installation et mise à jour des équipements informatiques (ordinateurs et logiciels)",
+        "Résoudre les problèmes matériels et logiciels",
+        "Configuration des routeurs, points d'accès",
+        "Sauvegarde des données"
+      ]
+    }
+  },
+  "education": {
+    "title": "Formation & Certifications",
+    "degrees": "Diplômes",
+    "certifications": "Certifications",
+    "edu1": {
+      "degree": "Licence d'Études Fondamentales en Sciences Économiques et Gestion, option Gestion",
+      "institution": "Faculté des Sciences Juridiques, Économiques et Sociales d'Agadir"
+    },
+    "edu2": {
+      "degree": "Diplôme Technicien en Maintenance et Support Informatique et Réseaux",
+      "institution": "Institut Spécialisé de Technologie Appliquée ISTA Taddart Agadir"
+    },
+    "edu3": {
+      "degree": "Baccalauréat en Sciences de la Vie et de la Terre",
+      "institution": "Lycée Qualifiant Anoual Agadir"
+    },
+    "edu4": {
+      "degree": "Reconnaissance Partielle en tant qu'Informaticien Spécialiste de l'Intégration de Systèmes (IHK FOSA)",
+      "institution": "Technicien d'État reconnu en Maintenance IT et Support Réseau (OFPPT), Agadir – Maroc",
+      "additionalInfo": "Un seul domaine de compétence manquant : Sécurité IT & Protection des Données (en compensation)"
+    },
+    "certificationsList": [
+      {
+        "title": "Telc Deutsch B2",
+        "issuer": "TELC",
+        "date": "2026"
+      },
+      {
+        "title": "Nom des Certifications",
+        "issuer": "Organisme de Certification",
+        "date": "2024"
+      },
+      {
+        "title": "Microsoft Office Excel, Word et Word Expert 2016",
+        "issuer": "MICROSOFT",
+        "date": "2021"
+      },
+      {
+        "title": "Compétences Essentielles en Administration Système",
+        "issuer": "LINKEDIN",
+        "date": "Déc 2024"
+      },
+      {
+        "title": "Windows Server 2022 : Installation et Configuration",
+        "issuer": "LINKEDIN",
+        "date": "Déc 2024"
+      },
+      {
+        "title": "Service d'Assistance Informatique pour Débutants",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "Apprentissage de Python",
+        "issuer": "LINKEDIN",
+        "date": "Jan 2025"
+      },
+      {
+        "title": "React Js : Créer une Application Web",
+        "issuer": "ODC AGADIR",
+        "date": "Mar 2025"
+      },
+      {
+        "title": "Optimiser les Flux de Travail du Développement Web avec l'IA",
+        "issuer": "ODC AGADIR",
+        "date": "Avr 2025"
+      },
+      {
+        "title": "Conception d'e-commerce de A à Z",
+        "issuer": "ODC AGADIR",
+        "date": "Avr 2025"
+      },
+      {
+        "title": "HTML CSS",
+        "issuer": "ODC AGADIR",
+        "date": "Avr 2025"
+      },
+      {
+        "title": "Flash et Réparation de Smartphones",
+        "issuer": "ODC AGADIR",
+        "date": "Mar 2025"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "technicalTitle": "Compétences Techniques",
+    "softwareTitle": "Compétences Logicielles",
+    "personalTitle": "Compétences Personnelles",
+    "technicalSkills": [
+      { "name": "Linux" },
+      { "name": "Windows Server" },
+      { "name": "Cisco" },
+      { "name": "JavaScript (JS)" },
+      { "name": "React Js" },
+      { "name": "Python" },
+      { "name": "HTML" },
+      { "name": "CSS" }
+    ],
+    "softwareSkills": [
+      { "name": "Microsoft Office (Excel, Word, Outlook)" },
+      { "name": "Ticketing Systems" }
+    ],
+    "personalSkills": [
+      { "name": "Travail en équipe" },
+      { "name": "Résolution de problèmes" },
+      { "name": "Management" },
+      { "name": "Travail sous pression" }
+    ]
+  },
+  "realizations": {
+    "title": "Mes Réalisations",
+    "cameras": {
+      "title": "Installation de caméras de surveillance",
+      "description": "Installation et configuration de systèmes de vidéosurveillance (caméras IP, DVR, NVR), avec configuration du réseau et accès à distance pour la surveillance."
+    },
+    "satellite": {
+      "title": "Installation de paraboles satellites",
+      "description": "Installation et réglage de paraboles satellites, avec configuration des récepteurs pour assurer une réception optimale du signal."
+    },
+    "alarm": {
+      "title": "Système d'alarme",
+      "description": "Installation et mise en service de systèmes d'alarme pour la sécurité des locaux, avec configuration et tests du système."
+    },
+    "network": {
+      "title": "Installation de réseau informatique",
+      "description": "Installation et configuration de réseaux informatiques, y compris routeurs, switchs et partage d'imprimantes en réseau."
+    },
+    "access": {
+      "title": "Contrôle d'accès",
+      "description": "Installation et configuration de systèmes de contrôle d'accès par badge, code ou empreinte digitale."
+    },
+    "attendance": {
+      "title": "Système de pointage",
+      "description": "Installation et configuration de systèmes de pointage pour la gestion des présences et du temps de travail des employés."
+    },
+    "workenv": {
+      "title": "Amélioration de l'environnement de travail",
+      "description": "Organisation et optimisation des postes de travail afin d'améliorer l'efficacité, la productivité et le confort des utilisateurs."
+    }
+  },
+  "projects": {
+    "title": "Projets",
+    "viewProject": "Voir le Projet",
+    "before": "Avant",
+    "after": "Après",
+    "improvements": "Améliorations",
+    "proj1": {
+      "title": "Optimisation de l'Infrastructure Réseau",
+      "description": "Révision complète de l'infrastructure réseau de l'entreprise, incluant la gestion des câbles, la restructuration de la topologie réseau et l'optimisation des performances.",
+      "technologies": ["Cisco", "Gestion Réseau", "Gestion des Câbles"],
+      "improvements": [
+        "Réduction de la latence réseau de 40%",
+        "Amélioration de l'organisation et de l'accessibilité des câbles",
+        "Amélioration des protocoles de sécurité réseau",
+        "Simplification des procédures de maintenance"
+      ]
+    },
+    "proj2": {
+      "title": "Modernisation de la Salle Serveurs",
+      "description": "Mise à niveau complète de la salle serveurs en mettant l'accent sur l'efficacité du refroidissement, la gestion de l'énergie et l'organisation des équipements.",
+      "technologies": ["Gestion Serveurs", "Systèmes de Refroidissement", "Gestion de l'Énergie"],
+      "improvements": [
+        "Réduction de la consommation énergétique de 30%",
+        "Amélioration de l'efficacité du refroidissement",
+        "Meilleure utilisation de l'espace",
+        "Systèmes de surveillance améliorés"
+      ]
+    },
+    "proj3": {
+      "title": "Optimisation de l'Installation des Postes de Travail",
+      "description": "Restructuration des postes de travail des employés pour améliorer l'ergonomie, la gestion des câbles et l'efficacité globale.",
+      "technologies": ["Ergonomie", "Gestion des Câbles", "Conception de l'Espace de Travail"],
+      "improvements": [
+        "Amélioration de l'organisation de l'espace de travail",
+        "Amélioration de l'ergonomie",
+        "Meilleure gestion des câbles",
+        "Augmentation de la productivité"
+      ]
+    }
+  },
+  "contact": {
+    "title": "Me Contacter",
+    "info": {
+      "title": "Coordonnées",
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation"
+    },
+    "social": {
+      "title": "Réseaux Sociaux"
+    },
+    "form": {
+      "title": "Envoyez-moi un message",
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer"
+    }
+  },
+  "footer": {
+    "madeWith": "Fait avec",
+    "and": "et",
+    "passion": "passion",
+    "rights": "Tous droits réservés"
+  }
+}
