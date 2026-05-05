@@ -10,7 +10,7 @@
     "hero": "Home"
   },
   "hero": {
-    "title": "IT Support Specialist",
+    "title": "IT-Netzwerktechniker",
     "description": "Passionate about solving technical problems and improving IT systems. Specialist in maintenance, user support, and network administration.",
     "buttons": {
       "learnMore": "Learn More",
@@ -38,7 +38,7 @@
     "title": "Professional Experience",
     "present": "Present",
     "exp1": {
-      "title": "IT Support Specialist",
+      "title": "IT-Netzwerktechniker",
       "company": "(Service Provider for the Regional Directorate of Customs in Agadir) via ODIF MAROC / INNOVA STAR / KASLAM SARL",
       "period": "May 2025 - Present",
       "responsibilities": [
@@ -49,7 +49,7 @@
       ]
     },
     "exp2": {
-      "title": "IT Support Specialist",
+      "title": "IT-Netzwerktechniker",
       "company": "Groupe FIKRI CASH (Partner: Wafacash)",
       "period": "January 2024 - January 2025",
       "responsibilities": [

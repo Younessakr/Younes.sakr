@@ -10,7 +10,7 @@
     "hero": "Startseite"
   },
   "hero": {
-    "title": "IT Support Specialist",
+    "title": "IT-Netzwerktechniker",
     "description": "Leidenschaftlich in der Lösung technischer Probleme und Verbesserung von IT-Systemen. Spezialist für Wartung, Benutzerunterstützung und Netzwerkadministration.",
     "buttons": {
       "learnMore": "Mehr erfahren",
@@ -38,7 +38,7 @@
     "title": "Berufserfahrung",
     "present": "Heute",
     "exp1": {
-      "title": "IT Support Specialist",
+      "title": "IT-Techniker",
       "company":"(Dienstleister bei der Regionaldirektion des Zolls in Agadir) über ODIF MAROC / INNOVA STAR / KASLAM SARL",
       "period": "Mai 2025 - Heute",
       "responsibilities": [
@@ -49,7 +49,7 @@
       ]
     },
     "exp2": {
-      "title": "IT Support Specialist",
+      "title": "IT-Netzwerktechniker",
       "company": "Groupe FIKRI CASH (Partner: Wafacash)",
       "period": "Januar 2024 - Januar 2025",
       "responsibilities": [

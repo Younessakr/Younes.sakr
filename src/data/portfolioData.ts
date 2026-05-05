@@ -4,7 +4,7 @@ import { profileImages } from './imagesData';
 export const experiences: Experience[] = [
   {
     id: "exp1",
-    title: "IT Support Specialist",
+    title: "IT-Netzwerktechniker",
     company: "(Dienstleister bei der Regionaldirektion des Zolls in Agadir) über ODIF MAROC / INNOVA STAR / KASLAM SARL",
     period: "Mai 2025 - Présent",
     responsibilities: [
@@ -16,7 +16,7 @@ export const experiences: Experience[] = [
   },
   {
     id: "exp2",
-    title: "IT Support Specialist",
+    title: "IT-Netzwerktechniker",
     company: "Groupe FIKRI CASH (Partner: Wafacash)",
     period: "Janvier 2024 - Janvier 2025",
     responsibilities: [
@@ -103,12 +103,7 @@ export const education: Education[] = [
     institution: "Staatlich anerkannter Techniker für IT-Wartung und Netzwerk-Support (OFPPT), Agadir – Marokko",
     year: "2026"
   },
-  {
-    id: "edu1",
-    degree: "Licence d'Études Fondamentales en Sciences Économiques et Gestion, option Gestion",
-    institution: "Faculté des Sciences Juridiques, Économiques et Sociales d'Agadir",
-    year: "2023"
-  },
+
   {
     id: "edu2",
     degree: "Diplôme Technicien en Maintenance et Support Informatique et Réseaux",

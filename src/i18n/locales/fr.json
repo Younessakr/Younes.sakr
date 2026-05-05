@@ -10,7 +10,7 @@
     "hero": "Accueil"
   },
   "hero": {
-    "title": "IT Support Specialist",
+    "title": "Technicien Informatique",
     "description": "Passionné par la résolution de problèmes techniques et l'amélioration des systèmes informatiques. Spécialiste en maintenance, support utilisateur et administration réseau.",
     "buttons": {
       "learnMore": "En savoir plus",
@@ -38,7 +38,7 @@
     "title": "Expérience Professionnelle",
     "present": "Présent",
     "exp1": {
-      "title": "IT Support Specialist",
+      "title": "Technicien Informatique",
       "company": "(Prestataire de services auprès de la Direction Régionale des Douanes à Agadir) via ODIF MAROC / INNOVA STAR / KASLAM SARL",
       "period": "Mai 2025 - Présent",
       "responsibilities": [
@@ -49,7 +49,7 @@
       ]
     },
     "exp2": {
-      "title": "IT Support Specialist",
+      "title": "Technicien Informatique",
       "company": "Groupe FIKRI CASH (Partner: Wafacash)",
       "period": "Janvier 2024 - Janvier 2025",
       "responsibilities": [
