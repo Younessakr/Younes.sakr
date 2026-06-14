@@ -4,7 +4,7 @@ import { profileImages } from './imagesData';
 export const experiences: Experience[] = [
   {
     id: "exp1",
-    title: "IT-Netzwerktechniker",
+    title: "IT-Techniker",
     company: "(Dienstleister bei der Regionaldirektion des Zolls in Agadir) über ODIF MAROC / INNOVA STAR / KASLAM SARL",
     period: "Mai 2025 - Présent",
     responsibilities: [
@@ -16,7 +16,7 @@ export const experiences: Experience[] = [
   },
   {
     id: "exp2",
-    title: "IT-Netzwerktechniker",
+    title: "IT-Techniker",
     company: "Groupe FIKRI CASH (Partner: Wafacash)",
     period: "Janvier 2024 - Janvier 2025",
     responsibilities: [
