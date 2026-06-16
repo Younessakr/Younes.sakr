@@ -10,7 +10,7 @@
     "hero": "Startseite"
   },
   "hero": {
-    "title": "IT-Netzwerktechniker",
+    "title": "IT-Techniker & Netzwerktechniker",
     "description": "Leidenschaftlich in der Lösung technischer Probleme und Verbesserung von IT-Systemen. Spezialist für Wartung, Benutzerunterstützung und Netzwerkadministration.",
     "buttons": {
       "learnMore": "Mehr erfahren",
@@ -49,7 +49,7 @@
       ]
     },
     "exp2": {
-      "title": "IT-Netzwerktechniker",
+      "title": "IT-Techniker",
       "company": "Groupe FIKRI CASH (Partner: Wafacash)",
       "period": "Januar 2024 - Januar 2025",
       "responsibilities": [
