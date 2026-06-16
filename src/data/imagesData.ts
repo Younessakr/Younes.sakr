@@ -1,7 +1,7 @@
 // All image URLs stored here for easy management and control
 
 export const profileImages = {
-  hero: "/MEE.png", // 📸 PROFILE IMAGE: Replace with your profile photo (recommended: 400x400px)
+  hero: "/MEE.PNG", // 📸 PROFILE IMAGE: Replace with your profile photo (recommended: 400x400px)
   // Add more profile images here as needed
 };
 
