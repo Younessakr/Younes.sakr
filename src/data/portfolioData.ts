@@ -129,7 +129,7 @@ export const certifications: Certification[] = [
     title: "Certifications Name",
     issuer: "Certifications Issuer",
     date: "2024",
-    photo: "https://images.pexels.com/photos/3808517/pexels-photo-3808517.jpeg?w=800"
+    photo: "upskilling4germany.png"
   },
   {
     title: "Microsoft Office Excel, Word et Word Expert 2016",
