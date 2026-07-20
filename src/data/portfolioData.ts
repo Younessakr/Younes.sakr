@@ -128,7 +128,7 @@ export const certifications: Certification[] = [
   {
     title: "Certifications Name",
     issuer: "Certifications Issuer",
-    date: "2024",
+    date: "2026",
     photo: "upskilling4germany.png"
   },
   {
